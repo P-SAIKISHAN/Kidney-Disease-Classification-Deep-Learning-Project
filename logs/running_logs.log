@@ -1,2 +1,72 @@
 [2025-12-26 07:17:31,406: INFO: main: Welcome to our custom log]
 [2025-12-26 07:21:24,118: INFO: main: Welcome to our custom log]
+[2026-01-03 12:08:25,309: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 12:08:25,331: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 12:08:25,334: INFO: common: created directory at: artifacts]
+[2026-01-03 12:08:25,336: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-03 12:08:43,082: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-03 12:58:41,061: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-03 12:58:41,061: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-03 12:58:48,293: WARNING: font_manager: Matplotlib is building the font cache; this may take a moment.]
+[2026-01-03 12:58:50,424: INFO: font_manager: generated new fontManager]
+[2026-01-03 12:58:56,117: ERROR: main: name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 9, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+                               ^^^^^^^^^^
+NameError: name 'STAGE_NAME' is not defined. Did you mean: 'TAGE_NAME'?
+[2026-01-03 12:59:16,969: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-03 12:59:16,969: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-03 12:59:19,847: ERROR: main: name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 9, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+                               ^^^^^^^^^^
+NameError: name 'STAGE_NAME' is not defined. Did you mean: 'TAGE_NAME'?
+[2026-01-03 12:59:29,837: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-03 12:59:29,837: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-03 12:59:32,868: ERROR: main: name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 9, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+                               ^^^^^^^^^^
+NameError: name 'STAGE_NAME' is not defined. Did you mean: 'TAGE_NAME'?
+[2026-01-03 13:19:06,728: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-03 13:19:06,729: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-03 13:19:14,010: ERROR: main: name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 9, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+                               ^^^^^^^^^^
+NameError: name 'STAGE_NAME' is not defined. Did you mean: 'TAGE_NAME'?
+[2026-01-03 13:20:06,737: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-03 13:20:06,737: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-03 13:20:09,533: ERROR: main: name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 9, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+                               ^^^^^^^^^^
+NameError: name 'STAGE_NAME' is not defined. Did you mean: 'TAGE_NAME'?
+[2026-01-03 13:23:35,362: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-03 13:23:35,362: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-03 13:23:38,130: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-03 13:23:38,169: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 13:23:38,173: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 13:23:38,173: INFO: common: created directory at: artifacts]
+[2026-01-03 13:23:38,179: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-03 13:23:38,179: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-03 13:32:39,043: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-03 13:32:59,613: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-03 13:32:59,613: INFO: main: *******************]
+[2026-01-03 13:32:59,613: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-03 13:32:59,621: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 13:32:59,621: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 13:32:59,621: INFO: common: created directory at: artifacts]
+[2026-01-03 13:32:59,621: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-03 13:33:00,413: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-03 13:33:00,630: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-03 13:33:00,773: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
