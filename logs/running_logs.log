@@ -70,3 +70,660 @@ x==========x]
 [2026-01-03 13:33:00,773: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
 
 x==========x]
+[2026-01-03 13:45:16,320: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 13:45:16,327: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 13:45:16,327: INFO: common: created directory at: artifacts]
+[2026-01-03 13:45:16,327: INFO: common: created directory at: artifacts\training]
+[2026-01-03 13:53:43,632: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 13:53:43,636: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 13:53:43,638: INFO: common: created directory at: artifacts]
+[2026-01-03 13:53:43,640: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:00:14,630: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:00:14,634: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:00:14,637: INFO: common: created directory at: artifacts]
+[2026-01-03 14:00:14,638: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:00:18,233: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:00:18,237: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:00:18,239: INFO: common: created directory at: artifacts]
+[2026-01-03 14:00:18,241: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:00:25,880: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:00:25,882: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:00:25,885: INFO: common: created directory at: artifacts]
+[2026-01-03 14:00:25,885: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:03:56,940: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:03:56,944: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:03:56,947: INFO: common: created directory at: artifacts]
+[2026-01-03 14:03:56,949: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:05:07,621: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:05:07,625: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:05:07,626: INFO: common: created directory at: artifacts]
+[2026-01-03 14:05:07,630: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:50,653: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:50,658: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:50,660: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:50,662: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:52,206: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:52,210: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:52,212: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:52,214: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:52,909: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:52,909: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:52,909: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:52,922: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:53,361: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:53,361: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:53,361: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:53,361: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:53,828: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:53,828: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:53,828: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:53,839: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:54,258: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:54,261: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:54,261: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:54,261: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:54,975: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:54,979: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:54,979: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:54,979: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:55,250: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:55,256: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:55,259: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:55,260: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:56,146: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:56,146: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:56,146: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:56,156: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:56,683: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:56,689: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:56,690: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:56,692: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:57,149: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:57,159: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:57,161: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:57,162: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:57,586: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:57,591: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:57,594: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:57,595: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:58,027: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:58,028: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:58,028: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:58,028: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:58,475: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:58,479: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:58,479: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:58,479: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:58,878: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:58,878: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:58,878: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:58,890: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:13:59,709: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:13:59,713: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:13:59,713: INFO: common: created directory at: artifacts]
+[2026-01-03 14:13:59,713: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:14:00,550: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:14:00,558: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:14:00,560: INFO: common: created directory at: artifacts]
+[2026-01-03 14:14:00,563: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:14:00,945: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:14:00,951: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:14:00,951: INFO: common: created directory at: artifacts]
+[2026-01-03 14:14:00,951: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:14:01,308: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:14:01,312: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:14:01,312: INFO: common: created directory at: artifacts]
+[2026-01-03 14:14:01,312: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:14:01,646: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:14:01,646: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:14:01,646: INFO: common: created directory at: artifacts]
+[2026-01-03 14:14:01,656: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:14:02,028: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:14:02,032: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:14:02,032: INFO: common: created directory at: artifacts]
+[2026-01-03 14:14:02,040: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:14:02,394: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:14:02,398: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:14:02,398: INFO: common: created directory at: artifacts]
+[2026-01-03 14:14:02,398: INFO: common: created directory at: artifacts\training]
+[2026-01-03 14:14:04,576: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 14:14:04,576: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 14:14:04,576: INFO: common: created directory at: artifacts]
+[2026-01-03 14:14:04,576: INFO: common: created directory at: artifacts\training]
+[2026-01-03 22:50:05,985: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 22:50:06,004: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 22:50:06,006: INFO: common: created directory at: artifacts]
+[2026-01-03 22:50:06,007: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:01:45,129: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:01:45,133: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:01:45,134: INFO: common: created directory at: artifacts]
+[2026-01-03 23:01:45,136: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:01:48,153: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:01:48,158: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:01:48,160: INFO: common: created directory at: artifacts]
+[2026-01-03 23:01:48,162: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:01:49,068: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:01:49,071: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:01:49,071: INFO: common: created directory at: artifacts]
+[2026-01-03 23:01:49,071: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:02:50,472: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:02:50,476: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:02:50,476: INFO: common: created directory at: artifacts]
+[2026-01-03 23:02:50,476: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:02:51,345: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:02:51,345: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:02:51,345: INFO: common: created directory at: artifacts]
+[2026-01-03 23:02:51,345: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:03:17,665: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:03:17,665: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:03:17,665: INFO: common: created directory at: artifacts]
+[2026-01-03 23:03:17,665: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:06:55,780: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:06:55,780: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:06:55,780: INFO: common: created directory at: artifacts]
+[2026-01-03 23:06:55,780: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:11:34,726: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:11:34,731: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:11:34,735: INFO: common: created directory at: artifacts]
+[2026-01-03 23:11:34,737: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:15:33,317: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:15:33,319: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:15:33,319: INFO: common: created directory at: artifacts]
+[2026-01-03 23:15:33,319: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:15:34,612: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:15:34,619: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:15:34,622: INFO: common: created directory at: artifacts]
+[2026-01-03 23:15:34,624: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:15:35,477: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:15:35,481: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:15:35,482: INFO: common: created directory at: artifacts]
+[2026-01-03 23:15:35,485: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:19:12,931: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:19:12,935: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:19:12,937: INFO: common: created directory at: artifacts]
+[2026-01-03 23:19:12,940: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:22:02,208: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:22:02,212: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:22:02,214: INFO: common: created directory at: artifacts]
+[2026-01-03 23:22:02,216: INFO: common: created directory at: artifacts\training]
+[2026-01-03 23:29:49,710: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-03 23:29:49,710: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-03 23:29:49,720: INFO: common: created directory at: artifacts]
+[2026-01-03 23:29:49,722: INFO: common: created directory at: artifacts\training]
+[2026-01-04 09:52:32,694: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-04 09:52:32,719: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-04 09:52:32,723: INFO: common: created directory at: artifacts]
+[2026-01-04 09:52:32,726: INFO: common: created directory at: artifacts\training]
+[2026-01-04 10:05:41,057: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 10:05:41,057: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 10:05:49,344: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 10:05:49,348: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-04 10:05:49,354: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-04 10:05:49,354: INFO: common: created directory at: artifacts]
+[2026-01-04 10:05:49,356: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 10:05:49,356: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:11:31,557: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:11:54,409: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 10:11:54,409: INFO: main: *******************]
+[2026-01-04 10:11:54,409: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 10:11:54,415: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-04 10:11:54,415: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-04 10:11:54,415: INFO: common: created directory at: artifacts]
+[2026-01-04 10:11:54,415: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 10:11:55,208: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 10:11:55,443: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 10:11:55,576: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 10:23:05,300: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 10:23:05,300: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 10:23:08,474: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 10:23:08,489: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 10:23:08,489: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 10:23:08,489: INFO: common: created directory at: artifacts]
+[2026-01-04 10:23:08,489: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 10:23:08,495: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:28:30,191: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:28:50,987: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 10:28:50,987: INFO: main: *******************]
+[2026-01-04 10:28:50,987: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 10:28:51,026: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 10:28:51,049: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 10:28:51,050: INFO: common: created directory at: artifacts]
+[2026-01-04 10:28:51,050: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 10:28:51,856: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 10:28:52,092: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 10:28:52,253: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 10:48:22,989: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 10:48:22,989: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 10:48:30,422: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 10:48:30,443: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 10:48:30,446: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 10:48:30,446: INFO: common: created directory at: artifacts]
+[2026-01-04 10:48:30,446: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 10:48:30,448: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:53:39,888: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/11lv1MJ9WZ-Xn9HhGAnqS7yQYaUXd0VoB/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:54:00,438: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 10:54:00,438: INFO: main: *******************]
+[2026-01-04 10:54:00,438: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 10:54:00,438: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 10:54:00,438: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 10:54:00,438: INFO: common: created directory at: artifacts]
+[2026-01-04 10:54:00,438: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 10:54:01,092: ERROR: main: Invalid filepath extension for saving. Please add either a `.keras` extension for the native Keras format (recommended) or a `.h5` extension. Use `model.export(filepath)` if you want to export a SavedModel for use with TFLite/TFServing/etc. Received: filepath=artifacts\prepare_base_model\base_model.]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 24, in <module>
+    prepare_base_model.main()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_02_prepare_base_model.py", line 17, in main
+    prepare_base_model.get_base_model()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\prepare_base_model.py", line 21, in get_base_model
+    self.save_model(path=self.config.base_model_path, model=self.model)
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\prepare_base_model.py", line 70, in save_model
+    model.save(path)
+  File "E:\Conda\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "E:\Conda\Lib\site-packages\keras\src\saving\saving_api.py", line 114, in save_model
+    raise ValueError(
+ValueError: Invalid filepath extension for saving. Please add either a `.keras` extension for the native Keras format (recommended) or a `.h5` extension. Use `model.export(filepath)` if you want to export a SavedModel for use with TFLite/TFServing/etc. Received: filepath=artifacts\prepare_base_model\base_model.
+[2026-01-04 10:56:01,711: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 10:56:01,726: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 10:56:04,499: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 10:56:04,534: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 10:56:04,537: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 10:56:04,537: INFO: common: created directory at: artifacts]
+[2026-01-04 10:56:04,537: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 10:56:04,537: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:56:23,121: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 10:56:23,916: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 10:56:23,916: INFO: main: *******************]
+[2026-01-04 10:56:23,916: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 10:56:23,916: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 10:56:23,916: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 10:56:23,916: INFO: common: created directory at: artifacts]
+[2026-01-04 10:56:23,916: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 10:56:24,395: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 10:56:24,606: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 10:56:24,720: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 11:00:17,377: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 11:00:17,378: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 11:00:20,249: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 11:00:20,253: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:00:20,257: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:00:20,258: INFO: common: created directory at: artifacts]
+[2026-01-04 11:00:20,259: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 11:00:20,260: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 11:00:45,370: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 11:00:46,175: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 11:00:46,175: INFO: main: *******************]
+[2026-01-04 11:00:46,175: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 11:00:46,181: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:00:46,184: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:00:46,184: INFO: common: created directory at: artifacts]
+[2026-01-04 11:00:46,184: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 11:00:46,692: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 11:00:46,889: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 11:00:47,005: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 11:05:28,907: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 11:05:28,907: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 11:05:31,730: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 11:05:31,752: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:05:31,752: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:05:31,752: INFO: common: created directory at: artifacts]
+[2026-01-04 11:05:31,752: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 11:05:31,752: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 11:06:00,549: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 11:06:01,401: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 11:06:01,401: INFO: main: *******************]
+[2026-01-04 11:06:01,401: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 11:06:01,401: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:06:01,401: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:06:01,401: INFO: common: created directory at: artifacts]
+[2026-01-04 11:06:01,417: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 11:06:01,952: ERROR: main: Invalid filepath extension for saving. Please add either a `.keras` extension for the native Keras format (recommended) or a `.h5` extension. Use `model.export(filepath)` if you want to export a SavedModel for use with TFLite/TFServing/etc. Received: filepath=artifacts\prepare_base_model\base_model.]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 24, in <module>
+    prepare_base_model.main()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_02_prepare_base_model.py", line 17, in main
+    prepare_base_model.get_base_model()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\prepare_base_model.py", line 21, in get_base_model
+    self.save_model(path=self.config.base_model_path, model=self.model)
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\prepare_base_model.py", line 70, in save_model
+    model.save(path)
+  File "E:\Conda\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "E:\Conda\Lib\site-packages\keras\src\saving\saving_api.py", line 114, in save_model
+    raise ValueError(
+ValueError: Invalid filepath extension for saving. Please add either a `.keras` extension for the native Keras format (recommended) or a `.h5` extension. Use `model.export(filepath)` if you want to export a SavedModel for use with TFLite/TFServing/etc. Received: filepath=artifacts\prepare_base_model\base_model.
+[2026-01-04 11:35:33,673: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:35:33,673: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:35:33,673: INFO: common: created directory at: artifacts]
+[2026-01-04 11:35:33,673: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 11:35:34,428: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-04 11:46:13,386: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 11:46:13,386: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 11:46:16,241: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 11:46:16,244: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:46:16,247: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:46:16,247: INFO: common: created directory at: artifacts]
+[2026-01-04 11:46:16,247: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 11:46:16,249: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 11:46:30,114: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 11:46:30,874: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 11:46:30,874: INFO: main: *******************]
+[2026-01-04 11:46:30,874: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 11:46:30,874: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:46:30,889: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:46:30,890: INFO: common: created directory at: artifacts]
+[2026-01-04 11:46:30,890: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 11:46:31,422: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 11:46:31,643: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 11:46:31,784: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 11:57:15,752: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 11:57:15,757: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 11:57:15,760: INFO: common: created directory at: artifacts]
+[2026-01-04 11:57:15,762: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:09:11,945: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:09:11,949: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:09:11,952: INFO: common: created directory at: artifacts]
+[2026-01-04 12:09:11,954: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:11:03,668: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:11:03,671: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:11:03,674: INFO: common: created directory at: artifacts]
+[2026-01-04 12:11:03,674: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:20:54,810: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:20:54,814: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:20:54,814: INFO: common: created directory at: artifacts]
+[2026-01-04 12:20:54,814: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:22:20,036: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:22:20,038: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:22:20,043: INFO: common: created directory at: artifacts]
+[2026-01-04 12:22:20,044: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:23:27,290: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:23:27,294: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:23:27,296: INFO: common: created directory at: artifacts]
+[2026-01-04 12:23:27,298: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:24:15,989: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:24:15,993: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:24:15,993: INFO: common: created directory at: artifacts]
+[2026-01-04 12:24:15,993: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:27:57,643: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:27:57,645: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:27:57,645: INFO: common: created directory at: artifacts]
+[2026-01-04 12:27:57,653: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:29:17,335: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:29:17,336: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:29:17,336: INFO: common: created directory at: artifacts]
+[2026-01-04 12:29:17,344: INFO: common: created directory at: artifacts\training]
+[2026-01-04 12:30:17,164: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 12:30:17,169: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 12:30:17,169: INFO: common: created directory at: artifacts]
+[2026-01-04 12:30:17,169: INFO: common: created directory at: artifacts\training]
+[2026-01-04 16:11:10,108: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 16:11:10,108: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 16:11:18,083: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 16:11:18,101: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:11:18,118: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:11:18,118: INFO: common: created directory at: artifacts]
+[2026-01-04 16:11:18,122: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 16:11:18,122: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:11:44,319: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:11:45,234: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:11:45,234: INFO: main: *******************]
+[2026-01-04 16:11:45,234: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 16:11:45,234: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:11:45,234: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:11:45,234: INFO: common: created directory at: artifacts]
+[2026-01-04 16:11:45,234: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 16:11:46,157: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:11:46,437: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:11:46,629: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:11:46,630: INFO: main: *******************]
+[2026-01-04 16:11:46,630: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-01-04 16:11:46,635: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:11:46,638: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:11:46,640: INFO: common: created directory at: artifacts]
+[2026-01-04 16:11:46,641: INFO: common: created directory at: artifacts\training]
+[2026-01-04 16:11:46,990: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-04 16:11:46,999: ERROR: main: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 35, in <module>
+    model_trainer.main()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_03_model_training.py", line 20, in main
+    training.train_valid_generator()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\model_training.py", line 37, in train_valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Conda\Lib\site-packages\keras\src\legacy\preprocessing\image.py", line 1136, in flow_from_directory
+    return DirectoryIterator(
+           ^^^^^^^^^^^^^^^^^^
+  File "E:\Conda\Lib\site-packages\keras\src\legacy\preprocessing\image.py", line 456, in __init__
+    for subdir in sorted(os.listdir(directory)):
+                         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\kidney-ct-scan-image'
+[2026-01-04 16:12:25,327: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 16:12:25,328: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 16:12:28,230: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 16:12:28,234: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:12:28,237: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:12:28,237: INFO: common: created directory at: artifacts]
+[2026-01-04 16:12:28,239: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 16:12:28,239: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:12:40,600: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:12:41,384: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:12:41,384: INFO: main: *******************]
+[2026-01-04 16:12:41,384: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 16:12:41,401: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:12:41,401: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:12:41,401: INFO: common: created directory at: artifacts]
+[2026-01-04 16:12:41,401: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 16:12:41,951: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:12:42,174: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:12:42,325: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:12:42,325: INFO: main: *******************]
+[2026-01-04 16:12:42,325: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-01-04 16:12:42,325: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:12:42,325: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:12:42,325: INFO: common: created directory at: artifacts]
+[2026-01-04 16:12:42,334: INFO: common: created directory at: artifacts\training]
+[2026-01-04 16:12:42,600: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-04 16:12:44,517: ERROR: main: Unknown variable: <Variable path=dense/kernel, shape=(25088, 2), dtype=float32>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 35, in <module>
+    model_trainer.main()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_03_model_training.py", line 21, in main
+    training.train()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "E:\Conda\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "E:\Conda\Lib\site-packages\keras\src\optimizers\base_optimizer.py", line 408, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <Variable path=dense/kernel, shape=(25088, 2), dtype=float32>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
+[2026-01-04 16:13:14,888: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 16:13:14,888: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 16:13:17,635: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 16:13:17,635: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:13:17,641: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:13:17,641: INFO: common: created directory at: artifacts]
+[2026-01-04 16:13:17,641: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 16:13:17,643: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:13:36,375: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:13:37,105: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:13:37,105: INFO: main: *******************]
+[2026-01-04 16:13:37,105: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 16:13:37,105: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:13:37,105: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:13:37,105: INFO: common: created directory at: artifacts]
+[2026-01-04 16:13:37,105: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 16:13:37,603: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:13:37,822: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:13:37,954: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:13:37,954: INFO: main: *******************]
+[2026-01-04 16:13:37,954: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-01-04 16:13:37,954: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:13:37,954: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:13:37,954: INFO: common: created directory at: artifacts]
+[2026-01-04 16:13:37,954: INFO: common: created directory at: artifacts\training]
+[2026-01-04 16:13:38,215: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-04 16:13:39,941: ERROR: main: Unknown variable: <Variable path=dense/kernel, shape=(25088, 2), dtype=float32>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 35, in <module>
+    model_trainer.main()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_03_model_training.py", line 21, in main
+    training.train()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "E:\Conda\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "E:\Conda\Lib\site-packages\keras\src\optimizers\base_optimizer.py", line 408, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <Variable path=dense/kernel, shape=(25088, 2), dtype=float32>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
+[2026-01-04 16:14:41,134: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 16:14:41,135: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 16:14:43,993: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 16:14:43,993: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:14:44,002: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:14:44,003: INFO: common: created directory at: artifacts]
+[2026-01-04 16:14:44,003: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 16:14:44,004: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:15:02,681: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:15:03,481: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:15:03,481: INFO: main: *******************]
+[2026-01-04 16:15:03,481: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 16:15:03,481: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:15:03,481: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:15:03,481: INFO: common: created directory at: artifacts]
+[2026-01-04 16:15:03,496: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 16:15:03,982: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:15:04,195: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:15:04,342: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:15:04,342: INFO: main: *******************]
+[2026-01-04 16:15:04,342: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-01-04 16:15:04,342: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:15:04,342: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:15:04,342: INFO: common: created directory at: artifacts]
+[2026-01-04 16:15:04,342: INFO: common: created directory at: artifacts\training]
+[2026-01-04 16:15:04,625: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-04 16:15:06,315: ERROR: main: Unknown variable: <Variable path=dense/kernel, shape=(25088, 2), dtype=float32>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.]
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 35, in <module>
+    model_trainer.main()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_03_model_training.py", line 21, in main
+    training.train()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "E:\Conda\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "E:\Conda\Lib\site-packages\keras\src\optimizers\base_optimizer.py", line 408, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <Variable path=dense/kernel, shape=(25088, 2), dtype=float32>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
+[2026-01-04 16:17:14,333: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 16:17:14,334: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 16:17:17,132: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 16:17:17,132: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:17:17,149: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:17:17,150: INFO: common: created directory at: artifacts]
+[2026-01-04 16:17:17,151: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 16:17:17,152: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:17:33,871: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:17:34,690: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:17:34,690: INFO: main: *******************]
+[2026-01-04 16:17:34,690: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 16:17:34,704: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:17:34,707: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:17:34,707: INFO: common: created directory at: artifacts]
+[2026-01-04 16:17:34,708: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 16:17:35,258: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:17:35,476: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:17:35,622: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:17:35,622: INFO: main: *******************]
+[2026-01-04 16:17:35,622: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-01-04 16:17:35,631: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:17:35,634: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:17:35,634: INFO: common: created directory at: artifacts]
+[2026-01-04 16:17:35,634: INFO: common: created directory at: artifacts\training]
+[2026-01-04 16:17:35,760: ERROR: main: 'TrainingConfig' object has no attribute 'params_classes']
+Traceback (most recent call last):
+  File "E:\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 35, in <module>
+    model_trainer.main()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_03_model_training.py", line 19, in main
+    training.get_base_model()
+  File "e:\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\model_training.py", line 28, in get_base_model
+    units=self.config.params_classes,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TrainingConfig' object has no attribute 'params_classes'
+[2026-01-04 16:22:33,008: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2026-01-04 16:22:33,008: INFO: utils: NumExpr defaulting to 8 threads.]
+[2026-01-04 16:22:35,722: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2026-01-04 16:22:35,738: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:22:35,738: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:22:35,738: INFO: common: created directory at: artifacts]
+[2026-01-04 16:22:35,738: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-04 16:22:35,745: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:23:08,157: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-04 16:23:08,944: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:23:08,944: INFO: main: *******************]
+[2026-01-04 16:23:08,944: INFO: main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2026-01-04 16:23:08,947: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:23:08,949: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:23:08,949: INFO: common: created directory at: artifacts]
+[2026-01-04 16:23:08,952: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-04 16:23:09,467: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:23:09,685: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:23:09,823: INFO: main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-04 16:23:09,823: INFO: main: *******************]
+[2026-01-04 16:23:09,823: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-01-04 16:23:09,823: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2026-01-04 16:23:09,834: INFO: common: yaml file: E:\Kidney-Disease-Classification-Deep-Learning-Project\params.yaml loaded successfully]
+[2026-01-04 16:23:09,835: INFO: common: created directory at: artifacts]
+[2026-01-04 16:23:09,836: INFO: common: created directory at: artifacts\training]
+[2026-01-04 16:25:10,954: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-04 16:25:11,117: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
