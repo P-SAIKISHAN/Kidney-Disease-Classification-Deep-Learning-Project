@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/952858982974295664/445c7d3d83b7456f8d853349d5579589/artifacts
+end_time: 1768932717048
+entry_point_name: ''
+experiment_id: '952858982974295664'
+lifecycle_stage: active
+run_id: 445c7d3d83b7456f8d853349d5579589
+run_name: evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768932716929
+status: 3
+tags: []
+user_id: saikishan2452003

@@ -1,8 +1,5 @@
 import os
-import urllib.request as request
-from zipfile import ZipFile
 import tensorflow as tf
-import time
 from pathlib import Path
 from cnnClassifier.entity.config_entity import TrainingConfig
 
@@ -13,7 +10,7 @@ class Training:
     def get_base_model(self):
         """
         Rebuilds the architecture manually and loads weights 
-        to avoid Keras version mismatch errors.
+        to avoid Keras version mismatch errors in TF 2.12.0.
         """
         # 1. Create the VGG16 base
         base_model = tf.keras.applications.vgg16.VGG16(
@@ -32,6 +29,7 @@ class Training:
         self.model = tf.keras.models.Model(inputs=base_model.input, outputs=prediction)
         
         # 3. Load only the numerical weights
+        # Using str() ensures compatibility with the H5 loader
         self.model.load_weights(str(self.config.updated_base_model_path))
 
     def train_valid_generator(self):
@@ -78,17 +76,18 @@ class Training:
         )
 
     @staticmethod
+    @staticmethod
     def save_model(path: Path, model: tf.keras.Model):
-        model.save(path)
+        model.save(path)  # Automatically H5 if path ends with .h5
 
+       
     def train(self):
         self.steps_per_epoch = self.train_generator.samples // self.train_generator.batch_size
         self.validation_steps = self.valid_generator.samples // self.valid_generator.batch_size
 
-        # CRITICAL FIX: Re-compile the model here.
-        # This tells the optimizer to look at the 'new' variables we created in get_base_model
+        # Re-compile to attach the optimizer to the newly built layers
         self.model.compile(
-            optimizer=tf.keras.optimizers.SGD(learning_rate=0.01),
+            optimizer=tf.keras.optimizers.SGD(learning_rate=0.01), 
             loss=tf.keras.losses.CategoricalCrossentropy(),
             metrics=["accuracy"]
         )

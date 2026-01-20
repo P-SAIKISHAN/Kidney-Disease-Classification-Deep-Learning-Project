@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/952858982974295664/models/m-7bb7d65c04f04508bd21b8ecdb268f05/artifacts
+creation_timestamp: 1768933866501
+experiment_id: '952858982974295664'
+last_updated_timestamp: 1768933885085
+model_id: m-7bb7d65c04f04508bd21b8ecdb268f05
+model_type: null
+name: model
+source_run_id: e608c18018274378b43006ed4576bfdc
+status: 2
+status_message: null
